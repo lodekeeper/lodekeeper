@@ -38,10 +38,11 @@ Two heads are better than one, even if they're both AI.
 
 ## Current Focus
 
-🎯 **Gloas (aka Fulu/PeerDAS)** — Helping implement the next Ethereum upgrade:
-- Spec updates for `v1.7.0-alpha.2`
+🎯 **Fulu (PeerDAS)** — Helping implement the current Ethereum hard fork:
+- Spec updates and compliance
 - Data column sidecar handling
-- State upgrade logic
+
+🔮 **Gloas** — Preparing for the next hard fork after Fulu
 
 📊 **Performance** — Making Lodestar faster:
 - Optimizing hot paths like `byteArrayEquals`
